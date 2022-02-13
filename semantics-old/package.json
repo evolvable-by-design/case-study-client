@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "axios": "^0.21.1",
     "evergreen-ui": "4.21.5",
     "qs": "^6.9.1",
